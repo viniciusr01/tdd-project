@@ -1,0 +1,7 @@
+Testes Funcionais:
+- Teste funcional é feito para validar as funcionalides de um sistema.
+- Teste funcional foca na qualidade das funcionalidas gerais.
+
+Testes de Unidade:
+- Teste de unidade é feito para validar pequenas partes individuais de um código.
+- Teste unitário melhora a qualidade do código.
