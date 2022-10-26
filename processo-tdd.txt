@@ -1,0 +1,1 @@
+O processo TDD consiste em escrever um teste e ele inicialmente vai falhar, após escreve um código minimo para que o teste passe, logo após cria um código mais robusto e ao fim se necessário, refatora o código. 
